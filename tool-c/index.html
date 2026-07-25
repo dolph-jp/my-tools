@@ -221,6 +221,11 @@
 
       // 常に末尾へ追加したい固定プロンプトを追加
       selectedPrompts.push("perfect anatomy");
+      // カンマ＋改行で結合する（改行のみにしたい場合は '\n' に変更してください）
+      const finalPrompt = selectedPrompts.join(',\n');
+      
+      const resultArea = document.getElementById('result');
+      resultArea.value = finalPrompt;
 
       const finalPrompt = selectedPrompts.join(', ');
       const resultArea = document.getElementById('result');
