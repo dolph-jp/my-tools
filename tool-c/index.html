@@ -186,7 +186,7 @@
       });
     }
 
-    // 生成およびコピー機能
+// 生成およびコピー機能
     function generateAndCopy() {
       const selectedPrompts = [];
 
@@ -219,14 +219,12 @@
         }
       });
 
+      // 常に末尾へ追加したい固定プロンプトを追加
+      selectedPrompts.push("perfect anatomy");
+
       const finalPrompt = selectedPrompts.join(', ');
       const resultArea = document.getElementById('result');
       resultArea.value = finalPrompt;
-
-      if (finalPrompt === '') {
-        alert('選択されている項目がありません。');
-        return;
-      }
 
       navigator.clipboard.writeText(finalPrompt).then(() => {
         alert('クリップボードにコピーしました！');
