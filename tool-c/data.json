@@ -1,0 +1,229 @@
+{
+  "characters": [
+    {
+      "name": "リシェル",
+      "prompt": "1girl, young woman, beautiful, big breasts, blonde hair, braided updo, blue eyes, elegant, refined, dignified"
+    },
+    {
+      "name": "ミーナ",
+      "prompt": "1girl, cute girl, brunette hair, short hair, twintails, amber eyes, medium breasts, slender"
+    },
+    {
+      "name": "エミリエ",
+      "prompt": "1girl, Anime style, a beautiful 22 year old female concierge apprentice, dark grey short hair (shoulder-length bob cut), intelligent look, sharp dark grey eyes, narrow eyes, confident expression"
+    },
+    {
+      "name": "サビナ",
+      "prompt": "1girl, ash-blonde (grayish-golden) hair, soft waves, medium hair, pale green eyes, calm and deep gaze, very pale skin, milf, graceful, subtle curves, big breasts"
+    },
+    {
+      "name": "レティシア",
+      "prompt": "1girl, long black hair, forehead, black eyes, drooping eyes, medium breasts, slender, pale skin, Innocent look"
+    },
+    {
+      "name": "エスト",
+      "prompt": "1girl, red hair, long hair, wavy hair, white oni horns, red eyes, narrow eyes, big breasts, delicate hair strands, atmospheric, restrained elegance"
+    },
+    {
+      "name": "アルテ",
+      "prompt": "slender elf woman, quiet elegance, long braided blonde hair, pale skin, blue eyes, subtle beauty, calm presence, painterly fantasy illustration"
+    },
+    {
+      "name": "ケイ",
+      "prompt": "1girl, female adventurer, short blonde hair, messy hair, bright blue eyes, small breasts"
+    }
+  ],
+  "expressions": [
+    { "name": "笑う", "prompt": "smile" },
+    { "name": "微笑む", "prompt": "light smile" },
+    { "name": "どや顔", "prompt": "smirk" },
+    { "name": "怒る", "prompt": "angry" },
+    { "name": "無表情", "prompt": "expressionless" },
+    { "name": "真剣", "prompt": "serious" },
+    { "name": "羞恥", "prompt": "embarrassed" },
+    { "name": "悪戯な", "prompt": "naughty face" },
+    { "name": "セクシーな", "prompt": "seductive face" },
+    { "name": "挑発的な笑み", "prompt": "naughty smile" },
+    { "name": "発情", "prompt": "estrus" },
+    { "name": "興奮", "prompt": "aroused" },
+    { "name": "泣く", "prompt": "crying" },
+    { "name": "叫ぶ", "prompt": "screaming" },
+    { "name": "赤面", "prompt": "blush" },
+    { "name": "絶頂", "prompt": "female orgasm" },
+    { "name": "よだれ", "prompt": "saliva" }
+  ],
+  "outfits": [
+    {
+      "name": "コンシェルジュお仕着せ",
+      "prompt": "white blouse, dark blue jacket, corset belt, dark blue tight skirt, pencil skirt, narrow silhouette, straight skirt, form-fitting skirt, no pleats, smooth skirt surface, slim skirt line, elegant uniform, open jacket"
+    },
+    {
+      "name": "メイド服",
+      "prompt": "victorian maid uniform, long skirt, white apron"
+    },
+    {
+      "name": "レティシアのローブ",
+      "prompt": "simple white robes, high collar, long sleeves, heavy fabric, modest clothing, not metal accessory, not halo, not metal ornament, not necklace"
+    },
+    {
+      "name": "アルテ普段着",
+      "prompt": "deep green layered coat, worn but refined traveler clothing, white shirts, dark slim-fit pants, Soft leather knee-high boots"
+    },
+    {
+      "name": "エストお仕着せ",
+      "prompt": "wearing a dark navy long guard coat, high collar, layered tailored uniform, subtle gold embroidery, fitted black pants, leather gloves with exposed fingertips, long boots, heavy matte fabric, luxurious but restrained design"
+    },
+    {
+      "name": "旅装",
+      "prompt": "wearing medieval fantasy outfit, light beige long-sleeved tunic, dark brown sleeveless vest, dark brown cloak, cloak fastened with silver brooch, brown leather belt with buckle, dark brown trousers, brown leather boots, dagger at waist"
+    },
+    {
+      "name": "リネンのドレス",
+      "prompt": "simple linen dress with soft fabric texture"
+    },
+    {
+      "name": "リシェルのドレス",
+      "prompt": "wearing a luxurious sapphire blue evening gown made of heavy silk velvet. The dress features a sophisticated A-line silhouette, a high-neck design, and delicate silver thread embroidery of geometric patterns and subtle key motifs"
+    },
+    {
+      "name": "イブニングドレス１",
+      "prompt": "elegant evening gown on a character, deep navy blue velvet fabric with luxurious golden embroidery and intricate golden thread patterns, sparkling gold accents like stars and constellations scattered across the dress, ornate gold details on bodice and sleeves, flowing long skirt with subtle shimmer, high fashion fantasy style, ethereal and dreamy atmosphere, soft magical glow"
+    },
+    {
+      "name": "透け感のあるドレス",
+      "prompt": "((sheer dress)), see-through dress"
+    },
+    {
+      "name": "ブラ・パンツ",
+      "prompt": "bra, panty"
+    },
+    {
+      "name": "下着",
+      "prompt": "lingerie"
+    },
+    {
+      "name": "ガーターベルト＆ストッキング",
+      "prompt": "Garter belts and garter stockings"
+    },
+    {
+      "name": "ビスチェ",
+      "prompt": "bustier"
+    },
+    {
+      "name": "タイツ",
+      "prompt": "tights"
+    },
+    {
+      "name": "ネグリジェ",
+      "prompt": "negligee"
+    },
+    {
+      "name": "全裸１",
+      "prompt": "comlpleted nude, puffy nipples, female pubic hair"
+    },
+    {
+      "name": "全裸２",
+      "prompt": "comlpleted nude, puffy nipples, female pubic hair, pussy, vagina, labia, clitoris"
+    }
+  ],
+  "situations": [
+    {
+      "name": "まんぐり返し",
+      "prompt": "spread legs, legs up, holding legs, knees on chest"
+    },
+    {
+      "name": "正常位１",
+      "prompt": "1 boy and 1girl are having sex, missionary position"
+    },
+    {
+      "name": "正常位２",
+      "prompt": "1 boy and 1girl are having sex, missionary position, spread legs, legs up"
+    },
+    {
+      "name": "騎乗位１",
+      "prompt": "1 boy and 1girl are having sex, cowgirl position"
+    },
+    {
+      "name": "騎乗位２",
+      "prompt": "1 boy and 1girl are having sex, cowgirl position, squatting, spread legs"
+    },
+    {
+      "name": "背面座位",
+      "prompt": "1 boy and 1girl are having sex, sitting position, hug from behind, face to face, straddle"
+    },
+    {
+      "name": "側位１",
+      "prompt": "1 boy and 1girl are having sex, lie on sides, spooning, spread legs"
+    },
+    {
+      "name": "側位２",
+      "prompt": "1 boy and 1girl are having sex, lie on sides, spooning, close legs"
+    },
+    {
+      "name": "後背位",
+      "prompt": "1 boy and 1girl are having sex, doggystyle"
+    },
+    {
+      "name": "立ちバック",
+      "prompt": "1 boy and 1girl are having sex, standing doggy"
+    },
+    {
+      "name": "フェラ・舐める",
+      "prompt": "1 boy, licking penis"
+    },
+    {
+      "name": "フェラ・咥える",
+      "prompt": "1 boy, penis, fellatio"
+    },
+    {
+      "name": "イラマチオ",
+      "prompt": "1 boy, penis, irrumatio"
+    },
+    {
+      "name": "手コキ",
+      "prompt": "1 boy, penis, handjob"
+    },
+    {
+      "name": "パイズリ",
+      "prompt": "breasts out, nipples, pov, 1 boy, penis is between breasts, paizuri"
+    },
+    {
+      "name": "オナニー",
+      "prompt": "masturbation"
+    },
+    {
+      "name": "ディルド",
+      "prompt": "masturbation, dildo"
+    }
+  ],
+  "poses": [
+    { "name": "前屈み", "prompt": "leaning forward" },
+    { "name": "仰け反り", "prompt": "arched back" },
+    { "name": "うつ伏せ", "prompt": "lies on stomach" },
+    { "name": "仰向け", "prompt": "lies on back" },
+    { "name": "四つん這い", "prompt": "all fours" }
+  ],
+  "states": [
+    { "name": "乳揺れ", "prompt": "bouncing breasts" },
+    { "name": "汗", "prompt": "sweat body" },
+    { "name": "濡れてる", "prompt": "wet body" },
+    { "name": "セクシーポーズ", "prompt": "seductive pose" },
+    { "name": "乳揉み", "prompt": "grabbing own breasts by hands" }
+  ],
+  "qualities": [
+    { "name": "品質1 (4k, 8k)", "prompt": "((Masterpeace, 4k, 8k, highres))" },
+    { "name": "品質2 (best quality, cg)", "prompt": "best quality, ultra-detailed, high resolution, extremely detailed cg, anime picture" },
+    { "name": "品質3 (masterpiece)", "prompt": "((masterpiece)), ((best quality)), (ultra-detailed)" },
+    { "name": "品質4 (absurdres)", "prompt": "absurdres, (((masterpiece)))" }
+  ],
+  "cameraworks": [
+    { "name": "前から", "prompt": "from front" },
+    { "name": "後ろから", "prompt": "from behind" },
+    { "name": "下から", "prompt": "from below" },
+    { "name": "上から", "prompt": "from above" },
+    { "name": "上半身", "prompt": "upper body" },
+    { "name": "下半身", "prompt": "lower body" },
+    { "name": "膝から上", "prompt": "cowboy shot" },
+    { "name": "ダイナミック", "prompt": "dynamic angle" }
+  ]
+}
