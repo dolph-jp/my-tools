@@ -123,13 +123,13 @@
 
       // 項目の定義（単一選択/複数選択の区別）
       const schema = [
+        { key: 'qualities', label: '品質（単一選択）', type: 'select' }, 
         { key: 'characters', label: 'キャラ（単一選択）', type: 'select' },
         { key: 'expressions', label: '表情（複数選択）', type: 'checkbox' },
         { key: 'outfits', label: '服装（単一選択）', type: 'select' },
         { key: 'situations', label: 'シチュエーション（単一選択）', type: 'select' },
         { key: 'poses', label: '姿勢（単一選択）', type: 'select' },
         { key: 'states', label: '状態（複数選択）', type: 'checkbox' },
-        { key: 'qualities', label: '品質（単一選択）', type: 'select' },
         { key: 'cameraworks', label: 'カメラワーク（単一選択）', type: 'select' }
       ];
 
@@ -220,7 +220,7 @@
       });
 
       // 常に末尾へ固定プロンプトを追加
-      selectedPrompts.push("perfect anatomy");
+      selectedPrompts.push("high fantasy setting, soft lighting, detailed, cinematic light, highly detailed, beautiful lighting, noble atmosphere, perfect anatomy");
 
       // カンマ＋改行で結合
       const finalPrompt = selectedPrompts.join(',\n');
